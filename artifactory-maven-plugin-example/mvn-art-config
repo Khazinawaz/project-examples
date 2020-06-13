@@ -7,4 +7,4 @@ resolver:
 deployer:
   snapshotRepo: snapshot-maven-local
   releaseRepo: release-maven-local
-  serverID: varsha_art
+  serverID: s_artifactory
